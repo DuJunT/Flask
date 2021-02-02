@@ -4,7 +4,7 @@ aniso8601==8.0.0
 asgiref==3.2.7
 bcrypt==3.1.7
 billiard==3.6.3.0
-bleach==3.1.5
+bleach==3.3.0
 blinker==1.4
 celery==4.4.5
 certifi==2020.4.5.2
